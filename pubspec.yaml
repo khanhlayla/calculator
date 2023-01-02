@@ -31,6 +31,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  function_tree: ^0.8.13
+  flutter_math: ^0.2.1
 
 
   # The following adds the Cupertino Icons font to your application.
